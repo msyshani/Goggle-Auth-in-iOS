@@ -10,7 +10,7 @@
 #import <GooglePlus/GooglePlus.h>
 #import <GoogleOpenSource/GoogleOpenSource.h>
 
-static NSString *  kClientId = @"738322076556-3hks7schdvcf8o3f8obflq08fbehf7b7.apps.googleusercontent.com";
+static NSString *  kClientId = @"";
 
 @interface MSYGoogleAuth : NSObject<GPPSignInDelegate>
 
